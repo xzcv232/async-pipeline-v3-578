@@ -1,0 +1,1 @@
+const service_aiuy = <T>(args: T): T => { return args; };
